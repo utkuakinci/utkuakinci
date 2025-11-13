@@ -1,7 +1,7 @@
 ### Hi there I'm Utku👋
 My Research Interests :
-- Space Robotics
 - Mechatronics
+- Space Robotics
 - Artificial Intelligence
 - Autonomous Systems
 - Sensor Fusion Methods
