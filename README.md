@@ -2,8 +2,8 @@
 My Research Interests :
 - Space Robotics
 - Mechatronics
-- Autonomous Systems
 - Artificial Intelligence
+- Autonomous Systems
 - Sensor Fusion Methods
   
 <!--
