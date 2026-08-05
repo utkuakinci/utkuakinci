@@ -1,6 +1,6 @@
 ### Hi there I'm Utku👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akinciutku)
 [![Website](https://img.shields.io/badge/utkuakinci.github.io-FF6600?style=for-the-badge&logo=startrek&logoColor=white)](https://utkuakinci.github.io/website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akinciutku)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--1995--0466-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1995-0466)
 
