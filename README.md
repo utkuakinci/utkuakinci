@@ -3,7 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akinciutku)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
 
-
+[![Website](https://img.shields.io/badge/Website-FF6600?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
+[![Website](https://img.shields.io/badge/utkuakinci.github.io-FF6600?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
 
 🔍 My Research Interests :
 - Mechatronics
