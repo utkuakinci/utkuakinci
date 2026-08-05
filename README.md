@@ -2,7 +2,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--1995--0466-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1995-0466)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akinciutku)
 [![Website](https://img.shields.io/badge/Website-utku.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://utkuakinci.github.io/website/)
-
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fsitenizin-adresi.com&up_message=online&down_message=offline&style=for-the-badge)](https://utkuakinci.github.io/website/)
 🔍 My Research Interests :
 - Mechatronics
 - Space Robotics
