@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-FF6600?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
 [![Website](https://img.shields.io/badge/utkuakinci.github.io-FF6600?style=for-the-badge&logo=Geocaching&logoColor=white)](https://utkuakinci.github.io/website/)
-[![Website](https://img.shields.io/badge/Website-FF6600?style=for-the-badge&logo=startrek&logoColor=white)](https://utkuakinci.github.io/website/)
+[![Website](https://img.shields.io/badge/Utkuakinci.Portfolio-FF6600?style=for-the-badge&logo=startrek&logoColor=white)](https://utkuakinci.github.io/website/)
 
 🔍 My Research Interests :
 - Mechatronics
